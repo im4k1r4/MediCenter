@@ -16,6 +16,9 @@ O MediCenter é um website fictício de uma clínica médica, criado para pratic
 # [MediCenter](https://im4k1r4.github.io/MediCenter/) <a name="en"></a>
 This project was developed as part of the B7Web course with the aim of applying the knowledge acquired in HTML and CSS.
 
+## Demo
+![Gif de apresentação do projeto](medicenter.gif)
+
 ## About the Project:
 MediCenter is a fictional website for a medical clinic, created to practice and solidify the fundamental concepts of front-end web development.
 
