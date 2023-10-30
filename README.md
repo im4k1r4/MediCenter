@@ -7,5 +7,7 @@ O MediCenter é um website fictício de uma clínica médica, criado para pratic
 # Tecnologias utilizadas:
 - HTML para estruturação e organização do conteúdo;
 - CSS para estilização, layout e responsividade.
+
+![Gif de apresentação do projeto](medicenter.gif)
   
 *Nota: Este projeto foi criado apenas para fins educacionais e de aprendizado. Qualquer semelhança com marcas ou organizações reais é mera coincidência.
